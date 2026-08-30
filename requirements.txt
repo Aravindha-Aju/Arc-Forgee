@@ -1,0 +1,21 @@
+# backend/requirements.txt
+
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# AI Integration
+google-generativeai
+
+# Utilities
+python-dotenv
+redis
+
